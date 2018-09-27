@@ -23,6 +23,11 @@ body {
   color: $darkGray;
 }
 
+p {
+    border: 2px black;
+    border-radius: 5px;
+}
+
 table {
     border-collapse: collapse;
 }
